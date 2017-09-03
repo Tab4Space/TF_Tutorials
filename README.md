@@ -1,5 +1,6 @@
 # TF_Tutorials
-## TensorFlow의 기본적인 사용과 여러 딥러닝 모델에 대해 다룹니다.
+### TensorFlow의 기본적인 사용과 여러 딥러닝 모델에 대해 다룹니다.
+### 앞으로도 주기적으로 업데이트 될 예정입니다.
 ## 환경
 - TensorFlow 1.3
 - Python 3.6
